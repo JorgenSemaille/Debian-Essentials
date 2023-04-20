@@ -1,4 +1,4 @@
-# Debian-Essential
+# Debian Essential
 **Debian Essentials** est un script bash permettant de facilement et rapidement mettre en place un environnement **Debian** pratique et fonctionnel.
 
 # Fonctions
