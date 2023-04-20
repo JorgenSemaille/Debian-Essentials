@@ -9,8 +9,8 @@ Vous pouvez choisir les fonctionnalités que vous souhaitez installer.
 # Installation
 Pour utiliser l'utilitaire, vous avez besoin d'être connecté en **'root'** et avoir accès à **Internet**.
  - ```wget https://github.com/JorgenSemaille/Debian-Essentials/releases/download/latest/dbess.sh```
- - ```chmod u+x install.sh```
- - ```./install.sh```
+ - ```chmod u+x dbess.sh```
+ - ```./dbess.sh```
 
 # Futurs ajouts
 - Je sais pas encore mdr
