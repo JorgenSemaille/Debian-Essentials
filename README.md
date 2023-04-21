@@ -13,7 +13,7 @@ Vous pouvez choisir les fonctionnalités que vous souhaitez installer.
 
 # Installation
 Pour utiliser l'utilitaire, vous avez besoin d'être connecté en **'root'** et avoir accès à **Internet**.
- - ```wget https://github.com/JorgenSemaille/Debian-Essentials/releases/download/latest/dbess.sh```
+ - ```wget https://github.com/JorgenSemaille/Debian-Essentials/releases/download/latest/debess.sh```
  - ```chmod u+x debess.sh```
  - ```./debess.sh```
 
